@@ -5,3 +5,9 @@ cmake-build-*
 .idea/
 .project
 *~
+states/
+*.toolbox/
+_tools/
+*.log
+*.out
+*.aux
